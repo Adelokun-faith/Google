@@ -1,0 +1,96 @@
+.navbar{
+    width: 100%;
+    box-shadow: 2px 2px gray;
+    height: 70px;
+}
+.navbar b{
+    list-style-type: none;
+    float: left;
+    margin-left: 0px 10px;
+    font-size:50px;
+    padding-right: 0px 20px;
+    display: block;
+    
+}
+
+.navbar button{
+    position: relative;
+    top: 20px;
+    margin-left: 20px;
+}
+
+.navbar a{
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: 50px;
+    top: 20px;
+    color: black;
+    position:relative;
+}
+
+.navbar a:hover{
+    color: red;
+}
+
+.cookies a:hover{
+    color:  blue;
+}
+
+.cookies a{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.cookies p{
+    background-color: white;
+    list-style-type: none;
+    width: 85%;
+    height: 30px;
+    box-shadow: 2px 2px gray;
+    margin-top: 0px;
+}
+
+.middle{
+    background-color: gainsboro;
+    width: 1300px;
+    height: 430px;
+    position: absolute;
+    top: 90px;
+}
+
+.cookies img{
+    margin-left: 550px;
+}
+
+.cookies h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.cookies button{
+    background-color: blue;
+    border-radius: 50px;
+    border: 2px blue;
+    color: white;
+    font-size: 20px;
+    padding: 20px 20px;
+    text-align: center;
+    margin-left: 500px;
+}
+
+.middle .lapt{
+    box-shadow: 2px 2px inset gray;
+    width: 90%;
+    height: 20px;
+    margin-left: 45px;
+    margin-top:70px;
+}
+
+.seperate p{
+    background-color: gainsboro;
+    height: 65px;
+    width: 1300px;
+    position: absolute;
+    margin-top: 480px;
+}
+
